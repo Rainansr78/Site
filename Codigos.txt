@@ -1,0 +1,50 @@
+html 
+head
+body
+
+<i></i> = italico
+<strong></strong> = negrito 
+<imput type= "text" /> - não tem campo pra fechar
+
+<img src=
+src é o caminho da imagem copiando o endereço da imagem.
+<img width="150" width é a largura da imagem
+
+<i><strong style="color: aqua;">First Html</strong></i>
+        <imput type= "text" />
+
+id - java script
+style - css
+class - css
+
+h - são titulos
+p - paragrafos
+sup - sobe a linha como roda pé
+mark - marca texto
+blockquote - citação
+<small> - letras pequenas
+
+ol - lista ordenada
+ul - lista não ordenada com bolinhas °
+li - item da lista 
+
+Fazer um link para navegar
+
+a - ancora
+a href="" - onde vai inserir o site.
+Exemplo: a href="https://www.youtube.com">Youtube</a>
+target - para abrir o link da pagina em uma nova aba
+
+ttarget="_self" - _self abre o link onde clica
+target="_blank" - _blank abre o link em uma nova aba 
+title=
+hr - coloca uma linha reta
+
+<u> - Definição e uso
+A tag <u> representa algum texto que não é articulado e estilizado de forma diferente do texto normal, como palavras com erros ortográficos ou nomes próprios em texto chinês. O conteúdo interno é normalmente exibido com um sublinhado. Você pode alterar isso com CSS (veja o exemplo abaixo).
+
+Dica: Evite usar o elemento <u> onde ele pode ser confundido com um hiperlink!
+
+<sub> define texto subscrito. O texto subscrito aparece meio caractere abaixo da linha normal e às vezes é renderizado em uma fonte menor. O texto subscrito pode ser usado para fórmulas químicas, como H2O.
+
+Dica: Use a tag <sup> para definir texto sobrescrito.
